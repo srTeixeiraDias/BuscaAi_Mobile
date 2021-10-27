@@ -1,4 +1,4 @@
-# projeto02
+# BuscaAi
 
 A new Flutter project.
 
